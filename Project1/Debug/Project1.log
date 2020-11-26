@@ -1,0 +1,5 @@
+﻿  Source.cpp
+E:\7 cеместр\ТПР\Lab3_P\Project1\Project1\Source.cpp(224,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+E:\7 cеместр\ТПР\Lab3_P\Project1\Project1\Source.cpp(57): warning C4715: 'read_file_c': not all control paths return a value
+E:\7 cеместр\ТПР\Lab3_P\Project1\Project1\Source.cpp(29): warning C4715: 'read_file_v': not all control paths return a value
+  Project1.vcxproj -> E:\7 cеместр\ТПР\Lab3_P\Project1\Debug\Project1.exe
